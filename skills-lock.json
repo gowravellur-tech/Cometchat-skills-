@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "skills": {
+    "cometchat": {
+      "source": "cometchat/cometchat-skills",
+      "sourceType": "github",
+      "skillPath": "skills/cometchat/SKILL.md",
+      "computedHash": "2833797ba018d80586f3984b7f21f2a7879babae6b7bead6afc5bfe2c021715a"
+    },
+    "cometchat-a11y": {
+      "source": "cometchat/cometchat-skills",
+      "sourceType": "github",
+      "skillPath": "skills/cometchat-a11y/SKILL.md",
+      "computedHash": "34ee4b5453bca36128a6cd30149d42f762d3c695395d7d5a71c79fdd1249fe8f"
+    },
+    "cometchat-calls": {
+      "source": "cometchat/cometchat-skills",
+      "sourceType": "github",
+      "skillPath": "skills/cometchat-calls/SKILL.md",
+      "computedHash": "55c2bd41a08d3dcd82ffe53bd5c9798f1f4259179b5a6146e4869b51f2dc9b0c"
+    },
+    "cometchat-i18n": {
+      "source": "cometchat/cometchat-skills",
+      "sourceType": "github",
+      "skillPath": "skills/cometchat-i18n/SKILL.md",
+      "computedHash": "d1eb4e5914223f6cf8d53ec7ce4303cf329f9d17366b5bacb33259c0f892f50f"
+    }
+  }
+}
